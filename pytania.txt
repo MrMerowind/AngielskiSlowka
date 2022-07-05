@@ -1,0 +1,167 @@
+#komentarz
+#puste linie ignorowane
+
+#kazde slowka w nowej lini
+#po angielsku@po polsku@ komentarz
+
+#nauczone slowka mozna np zakomentowac
+#slowka pisane na szybko moze byc duzo bledow
+
+#Unit 1
+adventorous@smialy/ryzykowny@ <- mozna dac ten znak na koniec ale nie trzeba
+ambitious@ambitny
+assertive@stanowczy
+bossy@apodyktyczny
+cautious@ostrozny
+creative@tworczy
+energetic@pelen energii
+likeable@sympatyczny
+moody@markotny/rozgrymaszony
+organised@zorganizowany
+quiet@cichy
+realiable@godny zaufania
+sensible@rozsadny
+sensitive@wrazliwy
+serious@powazny
+sociable@towarzyski
+talkative@gadatliwy
+thoughtful@rozwazny
+enthusiastic@entuzjastyczny
+reserved@chlodny/nierozmowny
+
+bicycle@rower
+antisocial@antyspoleczny
+monorail@jednoszynowy
+outperform@przewyzszyc
+semicircle@polkole
+discomfort@niewygoda
+overconfident@nadmiernie pewny siebie
+outplayed@pokonany/ograny
+ex boss@byly szef
+bilingual@dwujezyczny
+rewrite@przepisac
+overrated@przereklamowany
+misunderstand@zle zrozumiec
+dislike@nie lubic
+
+even-tempered@zrownowazony
+strong-willed@z silna wola
+easy-going@na luzie
+open-minded@otwarty
+hard-working@pracowity
+self-confident@pewny siebie
+level-headed@zrownowazony
+warm-hearted@serdeczny
+
+artist@artysta
+salesperson@sprzedawca
+politician@polityk
+engineer@inzynier
+teacher@nauczyciel
+inventor@wynalazca
+manager@menedzer
+writer@pisarz
+redefine@na nowo
+misunderstand@zle zrozumiec
+overrated@przereklamowany
+misused@niewlasciwie uzyty
+
+incorrect@bledny
+formaer@dawny/byly
+again@jeszcze raz
+too much@zbyt wiele
+
+#Unit 2
+destinations@miejsca docelowe
+travel@podrozowac
+journey@podroz
+abroad@za granica
+trip@wycieczka
+package@pakiet/zestaw
+home@dom
+
+broaden@poszerzac
+experience@doswiadczenie
+explore@zbadac/odkryc
+find@odnalezc
+get@otrzymac
+meet@spotkac
+learn@uczyc sie
+see@widziec
+become@stac sie
+do@zrobic
+study@badac/uczyc sie
+escape@ucieczka/ucziekac
+earn@zarabiac
+
+praise@chwalic/slawic
+vast@ogromny
+fierce@dziki
+respect@szanowac
+slope@nachylenie
+dune@wydma
+
+accomodation@zakwaterowanie
+be@byc
+customs@zwyczaje
+documents@dokumenty
+find out@dowiedziec sie
+vaccinations@szeczepienia
+insurance@ubezpieczenie
+read@czytac
+take@brac
+
+break dow@awaria
+get back@cofnac sie
+stop off@zatrzymac sie
+check in@zameldowac sie
+lift off@wystartowac
+set out@wyruszac
+carry on@kontynuowac
+look around@rozejrzec sie
+rise@wzrost
+
+#Unit 3
+nurse@pielegniarka
+politician@polityk
+model@model
+journalist@dziennikarz
+firefighter@strazak
+lawyer@prawnik
+proffesional footballer@profesjonalny pilkarz
+teacher@nauczyciel
+shop assistant@sprzedawca
+police officer@policjant
+TV presenter@ prezenter telewizyjny
+personal assistant@osobisty asystent
+sales manager@kierownik sprzedazy
+
+rewarding@satysfakcjonujacy
+challenging@trudny/wyzywajacy
+glamorous@czarujacy/efektowny
+stressful@stresujacy
+tedious@nudny
+repetitive@powtarzalny
+satisfying@satysfakcjonujacy
+stimulating@pobudzajacy
+flexible@elastyczny
+monotonous@monotonny
+
+looking for@szukac
+experience of@doswiadczenie z
+depend on@zalezec od
+responsible for@ odpowiedzialny za
+expected to@oczekiwac/wymagac
+knowledge of@wiedza o
+motivated by@zmotywowany przez
+report to@zglosic do
+prospects for@perspektywy dla
+fluency in@bieglosc w
+ability to@zdolnosc do
+suitable for@odpowiedni dla
+time-consuming@czasochlonny
+
+time management@zarzadzanie czasem
+workstation@stacja robocza
+work-life balance@rownowaga miedzy praca a zyciem prywatnym
+spend time@spedzac czas

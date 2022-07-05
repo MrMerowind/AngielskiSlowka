@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523974016 source:c:\users\mero\desktop\angielskislowka\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
